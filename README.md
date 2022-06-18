@@ -26,3 +26,9 @@ docker images
 docker run -p 5000:5000 -e PORT=5000 <imageid>
 docker ps
 docker stop <container_id>
+
+'''
+python setup.py install
+'''
+
+
