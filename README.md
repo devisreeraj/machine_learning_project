@@ -1,5 +1,7 @@
 # machine_learning_project
 # https://github.com/avnyadav/machine_learning_project
+# sunny.savita@inueron.ai
+# https://www.pdfdrive.com/hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems-e168440497.html
 This is first machine learning project.
 
 
